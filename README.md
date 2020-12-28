@@ -10,6 +10,8 @@ Agent is trained using simple RL algorithm, that works as following for each gen
 Agent is trained using Q-learning algorithm.
 
 
+---
+
 **NOTE**: Each of the algorithm's implementation contains the following,
 - A directory with rendered environment videos
 - PyTorch model's parameter weights
